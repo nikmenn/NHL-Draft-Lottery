@@ -1,0 +1,10 @@
+.initial-standings, .draft-order {
+  float: left;
+  padding: 20px 50px;
+  font-family: sans-serif;
+ }
+
+ .lottery-btn {
+     float: left;
+     margin-top: 5%;
+ }
